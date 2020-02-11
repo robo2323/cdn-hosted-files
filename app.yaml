@@ -17,6 +17,24 @@
   - title: Silicon qubits - ESR control for semiconducting spin qubits
     description: Dephasing-robust single-qubit Hadamard with bandwidth limits
     filename: qctrl/silicon-qubits-esr-control-for-semiconducting-spin-qubits.ipynb
+  - title: Test SubGroup Lvl 2
+    description: Dephasing-robust single-qubit Hadamard with bandwidth limits
+    items:
+      - title: Lvl 2 Item 1
+        description: Optimized gates for qubit subspaces within higher-dimensional manifolds
+        filename: qctrl/suppressing-leakage-errors.ipynb
+      - title: Lvl 2 Item 2
+        description: Optimized leakage-suppressing, band-limited, single-qubit Hadamard
+        filename: qctrl/superconducting-qubits-single-qubit-gates.ipynb
+      - title: Test SubGroup Lvl 3
+        description: Dephasing-robust single-qubit Hadamard with bandwidth limits
+        items:
+          - title: Lvl 3 Item 1
+            description: Optimized gates for qubit subspaces within higher-dimensional manifolds
+            filename: qctrl/suppressing-leakage-errors.ipynb
+          - title: Lvl 3 Item 2
+            description: Optimized leakage-suppressing, band-limited, single-qubit Hadamard
+            filename: qctrl/superconducting-qubits-single-qubit-gates.ipynb
 
 - title: Feature guides
   description: General feature guides for Q-CTRL BOULDER OPAL
